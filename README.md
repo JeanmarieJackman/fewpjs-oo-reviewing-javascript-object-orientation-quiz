@@ -109,7 +109,7 @@ house2.address = '1440 G St NW';
 
 Imagine the code above executing. At the end, what is the value of the `address` property of `house1`?
 
-(X) ‘22 Elm St’ ( ) ‘11 Broadway’ ( ) ‘1440 G St NW’ ( ) ‘Ada Lovelace’
+(X) ‘81 Prospect St’ ( ) ‘11 Broadway’ ( ) ‘1440 G St NW’ ( ) ‘Ada Lovelace’
 
 ?: What is the `address` value of `house2`?
 
