@@ -57,7 +57,7 @@ Above, we have an `Example` class. If we wanted to add a method called `info()` 
 (X) `get text() { return this._text }`
 ( ) `text = () => this._text`
 
-?: What code would we need to write in order access our newly create getter method from within the `Example` class?
+?: What code would we need to write in order access our newly created getter method from within the `Example` class?
 
 ( ) `example.text` (X) `this.text` ( ) `self.text` ( ) `Example.text`
 
